@@ -40,6 +40,7 @@ Once you have installed the dependencies and placed the data files in the same d
 
 ```bash
 python LSTM_Final.py
+```
 
 4. **Output**
 
